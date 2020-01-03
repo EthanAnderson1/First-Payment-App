@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My First Payment</string>
+    <string name="googlepay_button_content_description">Google Pay</string>
+    <string name="buy_with_googlepay_button_content_description">Buy with Google Pay</string>
+    <string name="unable_to_pay">Not ready to pay</string>
+</resources>
